@@ -23,7 +23,7 @@ Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus
 
 
 <p>
-    <a href='tel:5511975570983'>
+    <a href='https://wa.me/5511975570983'>
         <img src='https://img.shields.io/badge/Phone-+55(11)9--7557--0983-&?style=for-the-badge&color=green&logoColor=green&logo=WhatsApp'/>
     </a>
 </p>
