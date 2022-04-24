@@ -32,11 +32,6 @@ Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus
         <img src='https://img.shields.io/badge/E--mail-renato__di__giacomo%40hotmail.com-&?style=for-the-badge&color=yellow&logoColor=white&logo=minutemailer'/>
     </a>
 </p>
-<p>
-    <a href='https://renatodigiacomo.github.io/' target='_blank'>
-        <img src='https://img.shields.io/badge/GitHub.IO-renatodigiacomo.github.io-&?style=for-the-badge&color=red&logoColor=white&logo=GitHub'/>
-    </a>
-</p>
 
 </div>
 <div style='text-align: center;'>
