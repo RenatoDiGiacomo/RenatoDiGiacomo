@@ -12,7 +12,7 @@ Minhas experiências segue de WebSites dedicados, a SEO Orgânico por Google Ana
 <p>
 Trabalhos em sites institucionais, Landing Pages, criações de Layouts UI e UX. Utilização de WordPress e Joomla
 Com os 4 anos de experiência na área, aprendi muito sobre Front-End, Back-End, metodologias DevOps. O trabalho em equipe é algo que aprendi e hoje não vivo sem. Sou totalmente dedicado a criação, ao visual, e principalmente ao cliente. Com a minha proatividade e iniciativa, sempre supero as expectativas dos cliente.</p>
-<p>Atualmente estou estudando React. Pretento evoluir com ele e realizar projetos de sistemas internos </p>
+<p>Atualmente estou estudando React. Pretendo evoluir com ele e realizar projetos de sistemas internos </p>
 <br>
 Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus trabalhos. Sou direto no que eu penso.
 
