@@ -45,4 +45,4 @@ Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus
     <img src="https://komarev.com/ghpvc/?username=RenatoDiGiacomo&color=yellow"  alt="RenatoDiGiacomo" />
 </div>
 
-  ![Snake animation](https://github.com/SamaraMacedo/SamaraMacedo/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/RenatoDiGiacomo/RenatoDiGiacomo/blob/output/github-contribution-grid-snake.svg
