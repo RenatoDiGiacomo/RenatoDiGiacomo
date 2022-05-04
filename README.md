@@ -33,6 +33,7 @@ Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus
     </a>
 </p>
 
+  
 </div>
 <div style='text-align: center;'>
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDiGiacomo&layout=compact&langs_count=8&theme=highcontrast"/>
@@ -44,3 +45,4 @@ Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus
     <img src="https://komarev.com/ghpvc/?username=RenatoDiGiacomo&color=yellow"  alt="RenatoDiGiacomo" />
 </div>
 
+  ![Snake animation](https://github.com/SamaraMacedo/SamaraMacedo/blob/output/github-contribution-grid-snake.svg
