@@ -4,7 +4,7 @@
 
 <div>
 <p>
-tenho 35 anos. <br>
+Tenho 35 anos. <br>
 Sou desenvolvedor Front-End, tenho bastante apreço ao meu trabalho.
 Minhas experiências segue de WebSites dedicados, a SEO Orgânico por Google Analitycs. Crio sites "na mão" Com HTML, CSS, JavaScript.
 </p>
@@ -44,5 +44,3 @@ Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus
 <div>
     <img src="https://komarev.com/ghpvc/?username=RenatoDiGiacomo&color=yellow"  alt="RenatoDiGiacomo" />
 </div>
-
-  https://github.com/RenatoDiGiacomo/RenatoDiGiacomo/.github/github-snake.svg
