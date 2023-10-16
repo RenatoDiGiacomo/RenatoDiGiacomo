@@ -1,22 +1,39 @@
-# Olá Tudo bem?
+# Hello!! How you doing?
 
-## Sou Renato Di Giacomo,
+## Im Renato Di Giacomo,
 
 <div>
 <p>
-Tenho 37 anos. <br>
-Sou desenvolvedor Front-End, tenho bastante apreço ao meu trabalho.
-Minhas experiências segue de WebSites dedicados, a SEO Orgânico por Google Analitycs. Crio sites "na mão" Com HTML, CSS, JavaScript.
-</p>
-</div>
-<p>
-Trabalhos em sites institucionais, Landing Pages, criações de Layouts UI e UX. Utilização de WordPress e Joomla
-Com os 4 anos de experiência na área, aprendi muito sobre Front-End, Back-End, metodologias DevOps. O trabalho em equipe é algo que aprendi e hoje não vivo sem. Sou totalmente dedicado a criação, ao visual, e principalmente ao cliente. Com a minha proatividade e iniciativa, sempre supero as expectativas dos cliente.</p>
-<p>Atualmente estou estudando React. Pretendo evoluir com ele e realizar projetos de sistemas internos </p>
-<br>
-Sou sincero em tudo que eu faço, é possível notar no meu dia a dia e nos meus trabalhos. Sou direto no que eu penso.
+Im 37 years Old. <br>
+I am a Front-End Developer for 5 years, 
+I start creating web sites from scratch using HTML, CSS and JavaScript, where i gain more knoledge.
 
-### Contato
+I worked with PHP and CMS like WordPress and Joomla. 
+
+But my aim are Javascript and 2 years ago i start leaning ReactJS, where i create some projects like PokeDex.
+
+In Job, i work in some projects, Florestal project where i learning take informations from database using Rest and Axios, 
+
+After, i work it in project where i need take information from WhatsApp and pass for a manager software. 
+
+Meanwhile, i start learning back-end development, like SQL and NOSQL databases, express and NodeJS to create an communicate with database.
+RestApi and RestFull concepts.
+
+All together i start learning my real love, Game programming.
+Learning Unity C# programming, and because this learning Adon.Net and ASP.Net with C# programming.
+
+For now im Looking for oportunities in Around World and create a good network.
+### Some Projects i Create and Proud it.
+
+--[Tiro Galático -Beta](https://github.com/RenatoDiGiacomo/Tiro-Galatico)
+<br>
+--[PokeDex (In Development... yet)](https://github.com/RenatoDiGiacomo/PokeDexReact)
+
+
+
+
+
+### Contact
 <div>
 <p>
 
