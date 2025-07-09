@@ -5,12 +5,12 @@
 <div>
 <p>
 Im 39 years Old. <br>
-I am a Front-End Developer for 5 years, 
+I am a Front-End Developer for 7 years, 
 I start creating web sites from scratch using HTML, CSS and JavaScript, where i gain more knoledge.
 
 I worked with PHP and CMS like WordPress and Joomla. 
 
-But my aim are Javascript and 2 years ago i start leaning ReactJS, where i create some projects like PokeDex.
+But my aim are Javascript, i'm start leaning ReactJS, where i create some projects like PokeDex.
 
 In Job, i work in some projects, Florestal project where i learning take informations from database using Rest and Axios, 
 
