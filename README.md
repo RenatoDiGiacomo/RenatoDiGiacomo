@@ -14,6 +14,13 @@ Currently expanding into mobile development with React Native, applying the same
 
 ---
 
+## Education
+
+- MBA in FullStack Development (in progress)  
+- Degree in Logistics  
+
+---
+
 ## Tech Stack
 
 ### Front-End & Mobile
