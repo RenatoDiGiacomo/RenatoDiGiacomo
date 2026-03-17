@@ -1,6 +1,6 @@
 # Renato Di Giacomo
 
-### FullStack Developer | Front-End Specialist | React • Next • Node
+### FullStack Developer | Front-End Specialist | React • Next • Node • React Native
 
 ---
 
@@ -10,15 +10,15 @@ FullStack Developer with 7+ years of experience, strongly focused on Front-End e
 
 Solid background building applications from scratch, evolving to scalable architectures using React, Next.js and TypeScript. Experience with integrations, performance optimization and data-driven applications.
 
-Also expanding expertise in Back-End, cloud workflows and system design.
+Currently expanding into mobile development with React Native, applying the same architectural principles used in web applications.
 
 ---
 
 ## Tech Stack
 
-### Front-End
+### Front-End & Mobile
 - ReactJS / NextJS (TypeScript)
-- React Native
+- React Native (in progress / applied in personal projects)
 - HTML5, CSS3, SASS/SCSS
 - Tailwind, Styled-Components
 - Bootstrap
@@ -50,6 +50,7 @@ Also expanding expertise in Back-End, cloud workflows and system design.
 - Create responsive and high-performance interfaces  
 - Translate business needs into technical solutions  
 - Work across front-end and back-end boundaries  
+- Apply web knowledge into mobile development (React Native)
 
 ---
 
@@ -63,10 +64,12 @@ Also expanding expertise in Back-End, cloud workflows and system design.
 
 ---
 
-## Game Dev (Side Focus)
+## Continuous Learning
 
-- Unity (C#)
-- .NET / ASP.NET fundamentals
+- React Native (mobile architecture, navigation, API integration)  
+- Advanced TypeScript patterns  
+- Backend evolution with Node.js and scalable APIs  
+- Game development with Unity (C#)
 
 ---
 
