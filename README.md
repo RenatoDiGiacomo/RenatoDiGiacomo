@@ -1,63 +1,90 @@
-# Hello!! How you doing?
+# Renato Di Giacomo
 
-## Im Renato Di Giacomo,
+### FullStack Developer | Front-End Specialist | React • Next • Node
 
-<div>
-<p>
-Im 39 years Old. <br>
-I am a Front-End Developer for 7 years, 
-I start creating web sites from scratch using HTML, CSS and JavaScript, where i gain more knoledge.
+---
 
-I worked with PHP and CMS like WordPress and Joomla. 
+## About Me
 
-But my aim are Javascript, i'm start leaning ReactJS, where i create some projects like PokeDex.
+FullStack Developer with 7+ years of experience, strongly focused on Front-End engineering and modern JavaScript ecosystems.
 
-In Job, i work in some projects, Florestal project where i learning take informations from database using Rest and Axios, 
+Solid background building applications from scratch, evolving to scalable architectures using React, Next.js and TypeScript. Experience with integrations, performance optimization and data-driven applications.
 
-After, i work it in project where i need take information from WhatsApp and pass for a manager software. 
+Also expanding expertise in Back-End, cloud workflows and system design.
 
-Meanwhile, i start learning back-end development, like SQL and NOSQL databases, express and NodeJS to create an communicate with database.
-RestApi and RestFull concepts.
+---
 
-All together i start learning my real love, Game programming.
-Learning Unity C# programming, and because this learning Adon.Net and ASP.Net with C# programming.
+## Tech Stack
 
-For now im Looking for oportunities in Around World and create a good network.
-### Some Projects i Create and Proud it.
+### Front-End
+- ReactJS / NextJS (TypeScript)
+- React Native
+- HTML5, CSS3, SASS/SCSS
+- Tailwind, Styled-Components
+- Bootstrap
 
---[Tiro Galático -Beta](https://github.com/RenatoDiGiacomo/Tiro-Galatico)
-<br>
---[PokeDex (In Development... yet)](https://github.com/RenatoDiGiacomo/PokeDexReact)
+### Back-End
+- Node.js (Express)
+- REST / RESTful APIs
+- SQL / NoSQL (MongoDB)
+- PHP (legacy support)
 
+### DevOps & Tools
+- Git / GitHub
+- Docker
+- Azure DevOps
+- Google Analytics / Tag Manager
 
+### Design & UX
+- Figma
+- UI/UX principles
+- Responsive Design
+- Web Performance
 
+---
 
+## What I Do Best
 
-### Contact
-<div>
-<p>
+- Build scalable and maintainable front-end architectures  
+- Integrate APIs and external services efficiently  
+- Create responsive and high-performance interfaces  
+- Translate business needs into technical solutions  
+- Work across front-end and back-end boundaries  
 
+---
 
+## Experience Highlights
 
-<p>
-    <a href='https://wa.me/5511975570983' target='_blank'>
-        <img src='https://img.shields.io/badge/Phone-+55(11)9--7557--0983-&?style=for-the-badge&color=green&logoColor=green&logo=WhatsApp'/>
-    </a>
-</p>
-<p>
-    <a href='mailto:renato_di_giacomo@hotmail.com' target='_blank'>
-        <img src='https://img.shields.io/badge/E--mail-renato__di__giacomo%40hotmail.com-&?style=for-the-badge&color=yellow&logoColor=white&logo=minutemailer'/>
-    </a>
-</p>
+- Development of web and mobile applications using React ecosystem  
+- Integration with APIs and data processing flows  
+- Automation and communication systems (including messaging platforms)  
+- Performance optimization and analytics tracking  
+- Technical documentation and process organization  
 
-  
-</div>
-<div style='text-align: center;'>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDiGiacomo&layout=compact&langs_count=8&theme=highcontrast"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=RenatoDiGiacomo&theme=highcontrast&show_icons=true"/>
-    <br/>
-    <br/> 
-</div>
-<div>
-    <img src="https://komarev.com/ghpvc/?username=RenatoDiGiacomo&color=yellow"  alt="RenatoDiGiacomo" />
-</div>
+---
+
+## Game Dev (Side Focus)
+
+- Unity (C#)
+- .NET / ASP.NET fundamentals
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenatoDiGiacomo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDiGiacomo&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/RenatoDiGiacomo  
+- LinkedIn: https://www.linkedin.com/in/renato-di-giacomo/  
+
+---
+
+## Goals
+
+Looking for international opportunities, challenging projects and teams focused on high-quality software and innovation.
